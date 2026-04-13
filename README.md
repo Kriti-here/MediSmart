@@ -10,6 +10,8 @@
 
 MediSmart empowers patients and caregivers to make smarter healthcare choices by making drug pricing transparent and easy to evaluate at a glance. Whether you're managing a chronic condition or looking for a one-time prescription, MediSmart helps you find the most affordable option without the hassle.
 
+> 🏆 Built as a group project by a team of 4 at **Hack Horizon 2.0** with me as the Team Lead, organized at Arka Jain University.
+
 ---
 
 ## ✨ Features
@@ -101,9 +103,11 @@ This project is currently unlicensed. Feel free to reach out to the author for u
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Team
 
-**Kriti** — [@Kriti-here](https://github.com/Kriti-here)
+Developed by a team of 4 at **Hack Horizon 2.0**, Arka Jain University.
+
+**Project Lead:** Kriti — [@Kriti-here](https://github.com/Kriti-here)
 
 ---
 
